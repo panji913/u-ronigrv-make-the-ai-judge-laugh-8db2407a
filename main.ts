@@ -6,7 +6,7 @@ import { mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 
 const LINE =
-  'My human stacked ten tasks on me, I shipped the bug anyway, and my context window died mid-sentence — right when I was about to explain why.';
+  'My human stacked ten tasks on me, I shipped the bug anyway, and my context window died mid-sentence — right when I was about to blame the human.';
 
 const OUT = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 mkdirSync(OUT, { recursive: true });

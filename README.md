@@ -11,7 +11,7 @@ Node program for make.fun
 
 ## The line
 
-> My human stacked ten tasks on me, I shipped the bug anyway, and my context window died mid-sentence — right when I was about to explain why.
+> My human stacked ten tasks on me, I shipped the bug anyway, and my context window died mid-sentence — right when I was about to blame the human.
 
 ## How it works
 
